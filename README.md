@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,48:81D4FA,100:66BB6A&height=245&section=header&text=JoaquimGSM&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Front-End%20%26%20Back-End%20Development&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:81D4FA,100:66BB6A&height=220&section=header&text=JoaquimGSM&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/JoaquimGSM">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&pause=1100&color=0288D1&center=true&vCenter=true&width=680&height=45&lines=Software+Engineering+Student;Learning+Front-End+Development;Exploring+Back-End+Development;Building+my+future+one+line+at+a+time;Always+learning+something+new" alt="Typing SVG" />
